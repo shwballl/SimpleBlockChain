@@ -1,0 +1,56 @@
+Data: Genesis block
+Previous hash: 0
+Hash: 18026758231981545026
+
+Data: First block
+Previous hash: 18026758231981545026
+Hash: 13851503712311649073
+
+Data: Second block
+Previous hash: 13851503712311649073
+Hash: 16772711246612583691
+
+Data: Nazar
+Previous hash: 16772711246612583691
+Hash: 13895422185182904540
+
+Data: Hi: 
+Previous hash: 13895422185182904540
+Hash: 12749375366137498334
+
+Data:  
+Previous hash: 12749375366137498334
+Hash: 3417263195542479299
+
+Data:  hash: 
+Previous hash: 3417263195542479299
+Hash: 14049575242656087991
+
+Data: sh: 
+Previous hash: 14049575242656087991
+Hash: 9174166266288192798
+
+Data: 
+Previous hash: 9174166266288192798
+Hash: 605976168779757154
+
+Data: ring: construction from null is not valid
+Previous hash: 605976168779757154
+Hash: 47457289852601465
+
+Data: truction from null is not valid
+Previous hash: 47457289852601465
+Hash: 9017931641082938266
+
+Data: rom null is not valid
+Previous hash: 9017931641082938266
+Hash: 8163283973893664103
+
+Data: s not valid
+Previous hash: 8163283973893664103
+Hash: 13480194828373274055
+
+Data: d
+Previous hash: 13480194828373274055
+Hash: 12754927727102523224
+
